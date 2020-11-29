@@ -38,7 +38,7 @@
       # lose a life and display message
    # else if user guess > answer
 
-      # too low
+      # too high
       # lose a life and display message
 
 # when out of lives (end of while loop) display game over message
